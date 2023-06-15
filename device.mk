@@ -264,6 +264,7 @@ PRODUCT_PACKAGES += \
     LisaGLWifiOverlay \
     LisaINSettingsProviderOverlay \
     LisaINWifiOverlay \
+    LisaNfcOverlay \
     LisaSettingsOverlay \
     LisaSystemUIOverlay \
     LisaWifiOverlay \
